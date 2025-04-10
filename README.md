@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/mardhi aziz](https://www.linkedin.com/in/abdelaziz-mardhi-174112141/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mardhi aziz" height="30" width="40" /></a>
-<a href="[https://instagram.com/azizmardhi](https://www.instagram.com/azizmardhi/?next=%2F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizmardhi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelaziz-mardhi-174112141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mardhi aziz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/azizmardhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizmardhi" height="30" width="40" /></a>
 <a href="https://discord.gg/aziz_911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aziz_911" height="30" width="40" /></a>
 </p>
 
