@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm MARDHI ABDELAZIZ</h1>
-<h3 align="center">A passionate fullstack developer from Morocco</h3>
+<h3 align="center">A passionate Mobile developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azdev9&label=Profile%20views&color=0e75b6&style=flat" alt="azdev9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azdev9" alt="azdev9" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **mardhiaziz90@gmail.com**
 
-- ⚡ Fun fact **I Love my dog**
+- ⚡ Fun fact **I Love Coffe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
